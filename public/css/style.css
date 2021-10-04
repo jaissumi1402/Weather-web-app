@@ -79,7 +79,7 @@ body{
     }
 } 
 .main_header_left{
-    height: 40rem;
+    height: 41rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -113,7 +113,7 @@ body{
 
 
 .main_header_right{
-    height: 40rem;
+    height: 4rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
